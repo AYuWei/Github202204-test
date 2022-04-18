@@ -15,3 +15,13 @@
 
 提交到远程仓库
 1. git push <remote> <branch>
+
+操作是
+```js
+git add .
+git commit -m "创建了一个文件夹并写明了说明"
+git push origin Master
+```
+
+####################################################
+创建分支。
