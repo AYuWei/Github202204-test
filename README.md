@@ -67,4 +67,11 @@ git push origin Master
 查看本地分支
 1. git branch
    
-   
+
+查看记录
+1. git log --oneline --graph
+1. git log --oneline
+1. git log
+
+添加标签
+git tag v1.0
